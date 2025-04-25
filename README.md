@@ -51,4 +51,4 @@ I am Jefferson, a self-taught web developer focused on **Frontend Development**.
 
 ---
 
-💻 Built with 💙 by Nouman — Frontend Developer (in progress)
+💻 Built with 💙 by Jefferson — Frontend Developer (in progress)
