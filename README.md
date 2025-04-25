@@ -5,7 +5,7 @@ This is the updated version of my personal portfolio project. It is built using 
 
 ## 👨‍💻 About Me
 
-I am Nouman, a self-taught web developer focused on **Frontend Development**. I code daily, love learning, and aim to build real-world projects.
+I am Jefferson, a self-taught web developer focused on **Frontend Development**. I code daily, love learning, and aim to build real-world projects.
 
 ## 🧩 Projects
 
